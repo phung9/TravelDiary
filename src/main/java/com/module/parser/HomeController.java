@@ -1,4 +1,4 @@
-package com.sungwoo.test;
+package com.module.parser;
 
 import java.text.DateFormat;
 import java.util.Date;
