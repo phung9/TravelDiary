@@ -1,1 +1,1 @@
-web:java -jar target/TravelDiary-0.0.1.war
+web:java -jar target/demo-0.0.1-SNAPSHOT.war 
